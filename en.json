@@ -1,0 +1,294 @@
+{
+    "basics": {
+        "name": "Maxime Rouiller",
+        "label": "Solutions Architect/CEO at Solutions Novaweb",
+        "phone": "",
+        "website": "http://www.novawebsolutions.ca",
+        "summary": "Maxime Rouiller is a passionate .NET technology specialist, working for 10 years in large software development, advocating Agile and TDD. Aware of the latest technological trends, he intervenes as a specialist in the .NET Montréal usergroup and acts regularly as a speaker for Web Form programmers on the MVC platform as well as for promoting testing practices. \n\nSpecialties: Testing, ASP.NET MVC 4, ASP.NET 4.0, .NET 4.0,  jQuery, HTML5, Javascript, WCF, Build/test automation",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": []
+    },
+    "work": [{
+        "company": "Solutions Novaweb",
+        "position": "Senior Software Developer/Owner",
+        "website": "",
+        "startDate": "2013-10-01",
+        "summary": "Independent consultant. \n\nProvide software development services for the client. \n\nCirque du Soleil - February 2015 to now\n* Manage Azure Cloud services\n* Maintain homemade application framework for Cloud Development\n* Create provisioning scenario with Azure Resource Manager Templates\n* Requirement acquisition from client\n* Write documentation for deployment on Azure\n* Write deployment Powershell scripts for Azure\n* Rewrite logic for internal WiFi application\n* Technology positioning and strategy\n\nTechnologies: \n* ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell\n\nGARDA - July 2014 to January 2015\n* Maintain existing application                                            \n* Create monthly sales report for the sales director                       \n* Participate in the architecture of the new version of the internal tools \n* Reviewed the cloud architecture for the new version of the internal tools\n* Participate in different agile meeting (SCRUM)                           \n* Requirement acquisition for different softwares\n\nTechnologies\n* ASP.NET MVC, WebApi, Azure, C#, Git, ReSharper, AngularJS, Bootstrap, OData\n\nRADIO-CANADA (Plateforme) - March 2014 to June 2014\n* Help in the development of internal tools for content management/distribution\n* Architecture and database review\n* Review code to be shipped\n* Participate in different agile meeting\n\nTechnologies\n  * ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery\n\nRADIO-CANADA (Tou.Tv) - October 2013 to March 2014\n* Help in the development of their online streaming platform.\n* Implemented SSO for their platform\n* Provide suggestions on architecture and code.\n* Review code to be shipped\n* Took the lead in obtaining requirements from different departments.\n* Provided real-time error analysis of the system\n\nTechnologies\n  * ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
+        "highlights": []
+    }, {
+        "company": "nventive",
+        "position": "Senior Software Developer",
+        "website": "",
+        "startDate": "2013-09-01",
+        "summary": "Maintained a product in ASP.NET\nParticipated in a rewrite of the project with XAML, C# and the company's proprietary framework",
+        "highlights": [],
+        "endDate": "2013-10-01"
+    }, {
+        "company": "Innobec",
+        "position": "Senior .NET Web developer",
+        "website": "",
+        "startDate": "2011-09-01",
+        "summary": "-Build ASP.NET websites based on specification\n-Brought under test a legacy application that wasn't initially tested.\n-Wrote automated unit test, UI test as well as integration tests.\n-Evaluate tasks to plan iterations\n-Coach other developers on new technology\n-External client consulting\n\n\nTechnologies:\n-C#\n-ASP.NET MVC 2, MVC 3, MVC 4\n-HTML5\n-jQuery + KnockoutJS\n-ASP.NET Web API\n-StructureMap/Ninject",
+        "highlights": [],
+        "endDate": "2013-08-01"
+    }, {
+        "company": "Logiweb",
+        "position": ".NET Developer",
+        "website": "",
+        "startDate": "2010-09-01",
+        "summary": "Build websites for clients\nGave jQuery, TDD, MVC formations internally\nWent to do formations at clients",
+        "highlights": [],
+        "endDate": "2011-09-01"
+    }, {
+        "company": "DMR, une division de Fujitsu Conseil (Canada) inc.",
+        "position": ".NET Solution Consultant",
+        "website": "",
+        "startDate": "2009-10-01",
+        "summary": "* C#\n* WCF\n* .NET 3.5\n* TDD\n* Moq\n* VS2008\n* ASP.NET",
+        "highlights": [],
+        "endDate": "2010-07-01"
+    }, {
+        "company": "Orckestra Conseil Inc.",
+        "position": "Programmer",
+        "website": "",
+        "startDate": "2007-07-01",
+        "summary": "* SharePoint 2007\n* Commerce Server 2007\n* C#\n* .NET 1.1/2.0/3.5\n* FAST\n* WCF\n* ASP.NET",
+        "highlights": [],
+        "endDate": "2009-09-01"
+    }, {
+        "company": "CCDI Canada",
+        "position": "Programmer",
+        "website": "",
+        "startDate": "2007-01-01",
+        "summary": "* C#\n* VB6\n* ASP.NET\n* .NET 1.1/2.0",
+        "highlights": [],
+        "endDate": "2007-07-01"
+    }, {
+        "company": "S-One Canada",
+        "position": "Programmer",
+        "website": "",
+        "startDate": "undefined-2007-01",
+        "summary": "WCF, WFF, C#, ASP.NET",
+        "highlights": [],
+        "endDate": "undefined-2007-01"
+    }, {
+        "company": "Tel-Synergy",
+        "position": "Junior Programmer",
+        "website": "",
+        "startDate": "undefined-2005-01",
+        "summary": "-Maintain and develop the existing system while rebuilding it from scratch\n-Maintain the existing billing system\n-Analysis, conception and development of an home-made telemarketing system\n-Development of a self-service access to bills\n-Improve the mailling process of bills\n-Installation and maintenance of an intranet",
+        "highlights": [],
+        "endDate": "undefined-2006-01"
+    }, {
+        "company": "MSDEVMTL",
+        "position": "Co-Organiser of MSDEVMTL (.NET group)",
+        "website": "",
+        "startDate": "2009-10-01",
+        "summary": "* Find speakers\n* Participate in the daily/weekly/monthly management task for the group\n* Participate in the different tasks at meetings (greeter, opening speach, registration, etc.)",
+        "highlights": []
+    }],
+    "education": [{
+        "institution": "Cégep de Joliette",
+        "area": "",
+        "studyType": "Diplôme d'étude collégial",
+        "startDate": "2000-01-01",
+        "gpa": "",
+        "courses": [],
+        "endDate": "2004-01-01"
+    }],
+    "skills": [{
+        "name": "Web Development",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Databases",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Architecture",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "CSS",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Windows Azure",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "HTML 5",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "ASP.NET MVC",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Scrum",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": ".NET",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "ASP.NET",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "SQL",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "TDD",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Design Patterns",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "C#",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "IIS",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Visual Studio",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "HTML5",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "WCF",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "KnockoutJS",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Agile Methodologies",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Tortoise SVN",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "MVC",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Git",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "LINQ",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "T-SQL",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "HTML",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Entity Framework",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Test Driven Development",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "XML",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Microsoft SQL Server",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "jQuery",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Visual Basic",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "UML",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "ReSharper",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Public Speaking",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "NUnit",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "TFS",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "ADO.NET",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Software Development",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "JSON",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Solution Architecture",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Subversion",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "SharePoint",
+        "level": "",
+        "keywords": []
+    }, {
+        "name": "Unit Testing",
+        "level": "",
+        "keywords": []
+    }],
+    "languages": [{
+        "language": "French",
+        "fluency": null
+    }, {
+        "language": "English",
+        "fluency": null
+    }],
+    "references": []
+}
