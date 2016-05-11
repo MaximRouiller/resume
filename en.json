@@ -17,25 +17,104 @@
     "work": [{
         "company": "Solutions Novaweb",
         "position": "Senior Software Developer/Owner",
-        "website": "",
+        "website": "http://www.novawebsolutions.ca",
         "startDate": "2013-10-01",
-        "summary": "Independent consultant. \n\nProvide software development services for the client. \n\nCirque du Soleil - February 2015 to now\n* Manage Azure Cloud services\n* Maintain homemade application framework for Cloud Development\n* Create provisioning scenario with Azure Resource Manager Templates\n* Requirement acquisition from client\n* Write documentation for deployment on Azure\n* Write deployment Powershell scripts for Azure\n* Rewrite logic for internal WiFi application\n* Technology positioning and strategy\n\nTechnologies: \n* ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell\n\nGARDA - July 2014 to January 2015\n* Maintain existing application                                            \n* Create monthly sales report for the sales director                       \n* Participate in the architecture of the new version of the internal tools \n* Reviewed the cloud architecture for the new version of the internal tools\n* Participate in different agile meeting (SCRUM)                           \n* Requirement acquisition for different softwares\n\nTechnologies\n* ASP.NET MVC, WebApi, Azure, C#, Git, ReSharper, AngularJS, Bootstrap, OData\n\nRADIO-CANADA (Plateforme) - March 2014 to June 2014\n* Help in the development of internal tools for content management/distribution\n* Architecture and database review\n* Review code to be shipped\n* Participate in different agile meeting\n\nTechnologies\n  * ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery\n\nRADIO-CANADA (Tou.Tv) - October 2013 to March 2014\n* Help in the development of their online streaming platform.\n* Implemented SSO for their platform\n* Provide suggestions on architecture and code.\n* Review code to be shipped\n* Took the lead in obtaining requirements from different departments.\n* Provided real-time error analysis of the system\n\nTechnologies\n  * ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
+        "summary": "Independent consultant. Providing software development services for the client. ",
         "highlights": []
+    }, {
+        "company": "Raymond Chabot Grant Thornton (via Novaweb Solutions)",
+        "position": "Consultant",
+        "startDate": "1900-01-01",
+        "endDate": "1900-01-01",
+        "summary": "Technologies: .NET, ASP.NET MVC, ASP.NET WebApi, Angular JS, RequireJS, gulp, REST, Powershell, Windows Azure",
+        "highlights": []
+    },{
+        "company": "Jean Coutu (via Novaweb Solutions)",
+        "position": "Consultant",
+        "startDate": "1900-01-01",
+        "endDate": "1900-01-01",
+        "summary": "Technologies: .NET, ASP.NET MVC, JavaScript, Windows Azure",
+        "highlights": []
+    }, {
+        "company": "Cirque du Soleil (via Novaweb Solutions)",
+        "position": "Consultant",
+        "startDate": "2015-02",
+        "endDate": "2015-09?",
+        "summary": "Technologies: ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell",
+        "highlights": [
+            "Manage Azure Cloud services",
+            "Maintain homemade application framework for Cloud Development",
+            "Create provisioning scenario with Azure Resource Manager Templates",
+            "Requirement acquisition from client",
+            "Write documentation for deployment on Azure",
+            "Write deployment Powershell scripts for Azure",
+            "Rewrite logic for internal WiFi application",
+            "Technology positioning and strategy"
+        ]
+    }, {
+        "company": "Garda (via Novaweb Solutions)",
+        "position": "Consultant",
+        "startDate": "2014-07",
+        "endDate": "2015-01",
+        "summary": "Technologies: ASP.NET MVC, WebApi, Azure, C#, Git, ReSharper, AngularJS, Bootstrap, OData",
+        "highlights": [
+            "Maintain existing application",
+            "Create monthly sales report for the sales director",
+            "Participate in the architecture of the new version of the internal tools",
+            "Reviewed the cloud architecture for the new version of the internal tools",
+            "Participate in different agile meeting (SCRUM)",
+            "Requirement acquisition for different softwares"
+        ]
+    }, {
+        "company": "Radio-Canada (Plateforme) (via Novaweb Solutions)",
+        "position": "Consultant",
+        "startDate": "2014-03",
+        "endDate": "2014-06",
+        "summary": "Technologies: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
+        "highlights": [
+            "Help in the development of internal tools for content management/distribution",
+            "Architecture and database review",
+            "Review code to be shipped",
+            "Participate in different agile meeting"
+        ]
+    }, {
+        "company": "RADIO-CANADA (Tou.Tv) (via Novaweb Solutions)",
+        "position": "Consultant",
+        "startDate": "2013-10",
+        "endDate": "2014-03",
+        "summary": "Technologies: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
+        "highlights": [
+            "Help in the development of their online streaming platform.",
+            "Implemented SSO for their platform",
+            "Provide suggestions on architecture and code.",
+            "Review code to be shipped",
+            "Took the lead in obtaining requirements from different departments.",
+            "Provided real-time error analysis of the system"
+        ]
     }, {
         "company": "nventive",
         "position": "Senior Software Developer",
-        "website": "",
+        "website": "http://www.nventive.com",
         "startDate": "2013-09-01",
-        "summary": "Maintained a product in ASP.NET\nParticipated in a rewrite of the project with XAML, C# and the company's proprietary framework",
-        "highlights": [],
+        "summary": "",
+        "highlights": [
+            "Maintained a product in ASP.NET",
+            "Participated in a rewrite of the project with XAML, C# and the company's proprietary framework"
+        ],
         "endDate": "2013-10-01"
     }, {
         "company": "Innobec",
         "position": "Senior .NET Web developer",
-        "website": "",
+        "website": "http://www.innobec.com",
         "startDate": "2011-09-01",
-        "summary": "-Build ASP.NET websites based on specification\n-Brought under test a legacy application that wasn't initially tested.\n-Wrote automated unit test, UI test as well as integration tests.\n-Evaluate tasks to plan iterations\n-Coach other developers on new technology\n-External client consulting\n\n\nTechnologies:\n-C#\n-ASP.NET MVC 2, MVC 3, MVC 4\n-HTML5\n-jQuery + KnockoutJS\n-ASP.NET Web API\n-StructureMap/Ninject",
-        "highlights": [],
+        "summary": "Technologies: C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
+        "highlights": [
+            "Build ASP.NET websites based on specification",
+            "Brought under test a legacy application that wasn't initially tested.",
+            "Wrote automated unit test, UI test as well as integration tests.",
+            "Evaluate tasks to plan iterations\n-Coach other developers on new technology",
+            "External client consulting"
+        ],
         "endDate": "2013-08-01"
     }, {
         "company": "Logiweb",
@@ -285,10 +364,10 @@
     }],
     "languages": [{
         "language": "French",
-        "fluency": null
+        "fluency": "Native language"
     }, {
         "language": "English",
-        "fluency": null
+        "fluency": "Fluent"
     }],
     "references": []
 }
