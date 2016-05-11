@@ -5,14 +5,18 @@
         "phone": "",
         "website": "http://www.novawebsolutions.ca",
         "summary": "Maxime Rouiller is a passionate .NET technology specialist, working for 10 years in large software development, advocating Agile and TDD. Aware of the latest technological trends, he intervenes as a specialist in the .NET Montréal usergroup and acts regularly as a speaker for Web Form programmers on the MVC platform as well as for promoting testing practices. \n\nSpecialties: Testing, ASP.NET MVC 4, ASP.NET 4.0, .NET 4.0,  jQuery, HTML5, Javascript, WCF, Build/test automation",
-        "location": {
-            "address": "",
-            "postalCode": "",
-            "city": "",
-            "countryCode": "",
-            "region": ""
-        },
-        "profiles": []
+        "profiles": [{
+            "network": "Twitter",
+            "username": "MaximRouiller",
+            "url": "http://twitter.com/MaximRouiller"
+        }, {
+            "network": "Stackoverflow",
+            "url": "http://stackoverflow.com/users/24975/maxime-rouiller-mvp"
+        }, {
+            "network": "LinkedIn",
+            "username": "maximerouiller",
+            "url": "https://ca.linkedin.com/in/maximerouiller"
+        }]
     },
     "work": [{
         "company": "Solutions Novaweb",
@@ -24,10 +28,10 @@
     }, {
         "company": "Raymond Chabot Grant Thornton (via Novaweb Solutions)",
         "position": "Consultant",
-        "startDate": "2016-03",        
+        "startDate": "2016-03",
         "summary": "Technologies: .NET, ASP.NET MVC, ASP.NET WebApi, Angular JS, RequireJS, gulp, REST, Powershell, Windows Azure",
         "highlights": []
-    },{
+    }, {
         "company": "Jean Coutu (via Novaweb Solutions)",
         "position": "Consultant",
         "startDate": "2015-09",
