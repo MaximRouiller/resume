@@ -24,22 +24,21 @@
     }, {
         "company": "Raymond Chabot Grant Thornton (via Novaweb Solutions)",
         "position": "Consultant",
-        "startDate": "1900-01-01",
-        "endDate": "1900-01-01",
+        "startDate": "2016-03",
         "summary": "Technologies: .NET, ASP.NET MVC, ASP.NET WebApi, Angular JS, RequireJS, gulp, REST, Powershell, Windows Azure",
         "highlights": []
     },{
         "company": "Jean Coutu (via Novaweb Solutions)",
         "position": "Consultant",
-        "startDate": "1900-01-01",
-        "endDate": "1900-01-01",
+        "startDate": "2015-09",
+        "endDate": "2016-03",
         "summary": "Technologies: .NET, ASP.NET MVC, JavaScript, Windows Azure",
         "highlights": []
     }, {
         "company": "Cirque du Soleil (via Novaweb Solutions)",
         "position": "Consultant",
         "startDate": "2015-02",
-        "endDate": "2015-09?",
+        "endDate": "2015-09",
         "summary": "Technologies: ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell",
         "highlights": [
             "Manage Azure Cloud services",
