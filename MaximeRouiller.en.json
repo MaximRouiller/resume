@@ -1,7 +1,7 @@
 {
   "languages": [{
     "language": "French",
-    "fluency": "Native language"
+    "fluency": "Native speaker"
   }, {
     "language": "English",
     "fluency": "Fluent"
@@ -17,8 +17,8 @@
     {
       "company": "Raymond Chabot Grant Thornton",
       "position": "Consultant via Novaweb Solutions",
-      "startDate": "2016-02",
-      "endDate": "2017-04",
+      "startDate": "2016-02-01",
+      "endDate": "2017-04-30",
       "summary": "Provide software development services as well as help manage Windows Azure resources.",
       "description": "Technologies used: Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Web sites, ADFS, AppInsights, Resource Manager, SQL Azure), ASP.NET MVC, OWIN, WebAPI, C#, REST, Auth0, Angular 1.5, Visual Studio Team Services",
       "highlights": [
@@ -35,8 +35,8 @@
     {
       "company": "Jean Coutu",
       "position": "Consultant via Novaweb Solutions",
-      "startDate": "2015-09",
-      "endDate": "2016-03",
+      "startDate": "2015-09-01",
+      "endDate": "2016-03-31",
       "summary": "Provide software development services as well as help manage Windows Azure resources.",
       "description": "Technologies used: Microsoft Azure, ASP.NET MVC 5, WebAPI, C#, REST, JavaScript, jQuery, SharePoint 2013",
       "highlights": [
@@ -48,8 +48,8 @@
     {
       "company": "Cirque du Soleil",
       "position": "Consultant via Novaweb Solutions",
-      "startDate": "2015-02",
-      "endDate": "2015-09",
+      "startDate": "2015-02-01",
+      "endDate": "2015-09-30",
       "summary": "Provide software development services as well as help manage Windows Azure resources",
       "description": "Technologies used: Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Queuing, Web sites, ADFS, ACS), ASP.NET MVC 5, WebAPI, C#, OData, REST, Durandal, Powershell",
       "highlights": [
@@ -66,8 +66,8 @@
     {
       "company": "Garda",
       "position": "Consultant via Novaweb Solutions",
-      "startDate": "2014-07",
-      "endDate": "2015-01",
+      "startDate": "2014-07-01",
+      "endDate": "2015-01-31",
       "summary": "Helped maintain a legacy money tracking system as well as participate in the architecture of the new rewritten version. Helped in generating sales reports from two different data sources",
       "description": "Technologies used: Microsoft  Azure  (Active Directory,  Table Storage,  Blob  Storage, Queuing,  Web/Worker roles), ASP.NET MVC5, WebAPI, C# , VB.NET, Git, ReSharper, AngularJS, D3.js",
       "highlights": [
@@ -82,8 +82,8 @@
     {
       "company": "Radio-Canada (Plateforme Team)",
       "position": "Consultant via Novaweb Solutions",
-      "startDate": "2014-03",
-      "endDate": "2014-06",
+      "startDate": "2014-03-01",
+      "endDate": "2014-06-30",
       "summary": "Maintained the centralized content management system that drives all the content at Radio-Canada as well as adding new features.",
       "description": "Technologies used: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
       "highlights": [
@@ -96,8 +96,8 @@
     {
       "company": "Radio-Canada (Tou.Tv team)",
       "position": "Consultant via Novaweb Solutions",
-      "startDate": "2013-10",
-      "endDate": "2014-03",
+      "startDate": "2013-10-01",
+      "endDate": "2014-03-31",
       "summary": "Implementation of the Single-Sign On system as well as providing real-time log data visualization for the production website. Supported and coached other teams on the use of this system.",
       "description": "Technologies used: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
       "highlights": [
@@ -113,7 +113,7 @@
       "position": "Senior Software Developer",
       "website": "http://www.nventive.com",
       "startDate": "2013-09-01",
-      "endDate": "2013-10-01",
+      "endDate": "2013-10-31",
       "summary": "",
       "highlights": [
         "Maintained a product in ASP.NET",
@@ -124,7 +124,7 @@
       "position": "Senior .NET Web developer",
       "website": "http://www.innobec.com",
       "startDate": "2011-09-01",
-      "endDate": "2013-08-01",
+      "endDate": "2013-08-31",
       "description": "Technologies used: C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
       "highlights": [
         "Build ASP.NET websites based on specification",
@@ -142,7 +142,7 @@
       "highlights": [
         "Build websites for clients", "Gave jQuery, TDD, MVC formations internally", "Gave training at clients"
       ],
-      "endDate": "2011-09-01"
+      "endDate": "2011-09-30"
     }, {
       "company": "DMR, une division de Fujitsu Conseil (Canada) inc.",
       "position": ".NET Solution Consultant",
@@ -171,15 +171,15 @@
       "company": "S-One Canada",
       "position": "Programmer",
       "website": "",
-      "startDate": "undefined-2007-01",
+      "startDate": "2007-01-01",
       "description": "Technologies used: WCF, WFF, C#, ASP.NET",
       "highlights": [],
-      "endDate": "undefined-2007-01"
+      "endDate": "2007-01-01"
     }, {
       "company": "Tel-Synergy",
       "position": "Junior Programmer",
       "website": "",
-      "startDate": "2005-01",
+      "startDate": "2005-01-01",
       "highlights": [
         "Maintain and develop the existing system while rebuilding it from scratch",
         "Maintain the existing billing system",
@@ -188,7 +188,7 @@
         "Improve the mailling process of bills",
         "Installation and maintenance of an intranet"
       ],
-      "endDate": "2006-01"
+      "endDate": "2006-01-01"
     }
   ]
 }

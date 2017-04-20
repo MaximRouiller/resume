@@ -28,13 +28,53 @@
     "institution": "Cégep de Joliette",
     "area": "Informatique de Gestion 420.A0",
     "studyType": "Diplôme d'étude collégial",
-    "startDate": "2000",
+    "startDate": "2000-01-01",
     "gpa": "",
-    "endDate": "2004"
+    "endDate": "2004-01-01"
+  }],
+  "awards": [{
+      "title": "ASP.NET/IIS MVP",
+      "date": "2016-04-01",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "ASP.NET/IIS MVP",
+      "date": "2015-04-01",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "ASP.NET/IIS MVP",
+      "date": "2014-04-01",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "ASP.NET/IIS MVP",
+      "date": "2013-04-01",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "ASP.NET/IIS MVP",
+      "date": "2012-04-01",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "ASP.NET/IIS MVP",
+      "date": "2011-04-01",
+      "awarder": "Microsoft"
+    }
+  ],
+  "volunteer": [{
+    "organization": "MSDEVMTL",
+    "position": "Co-Lead",
+    "website": "http://www.msdevmtl.com",
+    "startDate": "2009-10-01",
+    "highlights": [
+      "Find speakers", "Participate in the daily/weekly/monthly management task for the group", "Participate in the different tasks at meetings (greeter, opening speech,registration, etc.)"
+    ]
   }],
   "skills": [{
     "name": "Web Development",
-    "level": "Expert",
+    "level": "master",
     "keywords": ["angularjs", "jQuery", "JSON", "HTML"]
   }, {
     "name": "Databases",
