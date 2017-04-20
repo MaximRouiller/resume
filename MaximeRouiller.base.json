@@ -9,11 +9,208 @@
       "countryCode": "CA",
       "region": "QC"
     },
+    "summary": "Maxime Rouiller is a passionate .NET technology specialist, working for 10 years in large software development, advocating Agile and TDD. Aware of the latest technological trends, he intervenes as a specialist in the .NET Montréal usergroup and acts regularly as a speaker for Web Form programmers on the MVC platform as well as for promoting testing practices. \n\nSpecialties: Testing, ASP.NET MVC, ASP.NET, .NET,  JavaScript (angular, jquery, node), HTML5, Build and Release Pipelines automation",
     "profiles": [{
       "network": "Twitter",
       "username": "MaximRouiller",
       "url": "http://twitter.com/MaximRouiller"
+    }, {
+      "network": "Stackoverflow",
+      "url": "http://stackoverflow.com/users/24975/maxime-rouiller-mvp"
+    }, {
+      "network": "LinkedIn",
+      "username": "maximerouiller",
+      "url": "https://ca.linkedin.com/in/maximerouiller"
     }],
     "website": "http://www.novawebsolutions.ca"
-  }
+  },
+  "education": [{
+    "institution": "Cégep de Joliette",
+    "area": "Informatique de Gestion 420.A0",
+    "studyType": "Diplôme d'étude collégial",
+    "startDate": "2000",
+    "gpa": "",
+    "endDate": "2004"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Expert",
+    "keywords": ["angularjs", "jQuery", "JSON", "HTML"]
+  }, {
+    "name": "Databases",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Architecture",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "CSS",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Windows Azure",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "HTML 5",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "ASP.NET MVC",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Scrum",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": ".NET",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "ASP.NET",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "SQL",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "TDD",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Design Patterns",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "C#",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "IIS",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Visual Studio",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "HTML5",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "WCF",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "KnockoutJS",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Agile Methodologies",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Tortoise SVN",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "MVC",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Git",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "LINQ",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "T-SQL",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "HTML",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Entity Framework",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Test Driven Development",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "XML",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Microsoft SQL Server",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "jQuery",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Visual Basic",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "UML",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "JavaScript",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "ReSharper",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Public Speaking",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "NUnit",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "TFS",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "ADO.NET",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Software Development",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "JSON",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Solution Architecture",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Subversion",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "SharePoint",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Unit Testing",
+    "level": "",
+    "keywords": []
+  }]
 }
