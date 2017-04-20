@@ -1,0 +1,19 @@
+{
+  "basics": {
+    "name": "Maxime Rouiller",
+    "label": "Senior Solution Developer",
+    "email": "maxime@novawebsolutions.ca",
+    "phone": "(514) 945-2657",
+    "location": {
+      "city": "Montreal",
+      "countryCode": "CA",
+      "region": "QC"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "MaximRouiller",
+      "url": "http://twitter.com/MaximRouiller"
+    }],
+    "website": "http://www.novawebsolutions.ca"
+  }
+}

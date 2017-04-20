@@ -1,0 +1,68 @@
+{
+  "work": [{
+      "company": "Raymond Chabot Grant Thornton",
+      "position": "Consultant via Novaweb Solutions",
+      "startDate": "2016-02",
+      "endDate": "2017-04",
+      "summary": "Provide software development services as well as help manage Windows Azure resources.",
+      "description": "Technologies used: Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Web sites, ADFS, AppInsights, Resource Manager, SQL Azure), ASP.NET MVC, OWIN, WebAPI, C#, REST, Auth0, Angular 1.5, Visual Studio Team Services",
+      "highlights": [
+        "Teach developers about proper use of cloud resources",
+        "Build proof of concepts to ensure validity of technology",
+        "Develop SPA angular.js application",
+        "Create provisioning scenario with Azure Resource Manager Templates",
+        "Requirement acquisition from client",
+        "Write documentation for deployment on Azure",
+        "Recommend web development practices",
+        "Technology positioning and strategy"
+      ]
+    },
+    {
+      "company": "Jean Coutu",
+      "position": "Consultant via Novaweb Solutions",
+      "startDate": "2015-09",
+      "endDate": "2016-03",
+      "summary": "Provide software development services as well as help manage Windows Azure resources.",
+      "description": "Technologies used: Microsoft Azure, ASP.NET MVC 5, WebAPI, C#, REST, JavaScript, jQuery, SharePoint 2013",
+      "highlights": [
+        "Help give orientation towards the cloud",
+        "Deliver SharePoint solutions",
+        "Increased performance of client-side applications by 300%"
+      ]
+    },
+    {
+      "company": "Cirque du Soleil",
+      "position": "Consultant via Novaweb Solutions",
+      "startDate": "2015-02",
+      "endDate": "2015-09",
+      "summary": "Provide software development services as well as help manage Windows Azure resources",
+      "description": "Technologies used: Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Queuing, Web sites, ADFS, ACS), ASP.NET MVC 5, WebAPI, C#, OData, REST, Durandal, Powershell",
+      "highlights": [
+        "Manage Azure Cloud services",
+        "Maintain homemade application framework for Cloud Development",
+        "Create provisioning scenario with Azure Resource Manager Templates",
+        "Requirement acquisition from client",
+        "Write documentation for deployment on Azure",
+        "Write deployment Powershell scripts for Azure",
+        "Rewrite logic for internal WiFi application",
+        "Technology positioning and strategy"
+      ]
+    },
+    {
+      "company": "Garda",
+      "position": "Consultant via Novaweb Solutions",
+      "startDate": "2014-07",
+      "endDate": "2015-01",
+      "summary": "Helped maintain a legacy money tracking system as well as participate in thearchitecture of the new rewritten version. Helped in generating sales reportsfrom two different data sources",
+      "description": "Technologies used: Microsoft  Azure  (Active Directory,  Table Storage,  Blob  Storage, Queuing,  Web/Worker roles), ASP.NET MVC5, WebAPI, C# , VB.NET, Git, ReSharper, AngularJS, D3.js",
+      "highlights": [
+        "Maintain existingapplication",
+        "Create monthly sales report for the sales director",
+        "Participate in the architecture of the new versionof the internal tools",
+        "Reviewed the cloud architecture for the new versionof the internal tools",
+        "Participate in different agile meeting (SCRUM)",
+        "Requirement acquisition for different software"
+      ]
+    }
+  ]
+}
