@@ -23,8 +23,6 @@
     // });
 
     function render(resume, filename) {
-        var phantomArgs = [path.join(__dirname, 'rasterize.js')];
-
         var css = fs.readFileSync(__dirname + "/style.css", "utf-8");
         var tpl = fs.readFileSync(__dirname + "/resume.hbs", "utf-8");
 
@@ -37,9 +35,6 @@
         });
 
         // generates PDF
-        phantomArgs.push(path.join(__dirname, filename + ".html"));
-        phantomArgs.push(filename + ".pdf");
-
         var program = phantomjs.exec('./rasterize.js', './compiled/' + filename + '.html', './compiled/' + filename + '.pdf', 'Letter')
         program.stdout.pipe(process.stdout);
         program.stderr.pipe(process.stderr);
