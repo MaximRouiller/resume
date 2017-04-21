@@ -1,7 +1,9 @@
 (function () {
     var fs = require("fs");
+    var path = require("path");
     var Handlebars = require("handlebars");
     var moment = require("moment");
+    var phantomjs = require('phantomjs-prebuilt')
 
     var base = require("./MaximeRouiller.base.json");
     var english = require("./MaximeRouiller.en.json");
@@ -12,23 +14,35 @@
         fs.mkdirSync(compiled, 0744);
     }
 
-    fs.writeFile(compiled + "/MaximeRouiller.en.json", JSON.stringify(Object.assign(base, english)), {
-        flag: 'w'
-    });
-    fs.writeFile(compiled + "/MaximeRouiller.fr.json", JSON.stringify(Object.assign(base, french)), {
-        flag: 'w'
-    });
+    // unnecessary. helpful for debugging however.
+    // fs.writeFile(compiled + "/MaximeRouiller.en.json", JSON.stringify(Object.assign(base, english)), {
+    //     flag: 'w'
+    // });
+    // fs.writeFile(compiled + "/MaximeRouiller.fr.json", JSON.stringify(Object.assign(base, french)), {
+    //     flag: 'w'
+    // });
 
     function render(resume, filename) {
+        var phantomArgs = [path.join(__dirname, 'rasterize.js')];
+
         var css = fs.readFileSync(__dirname + "/style.css", "utf-8");
         var tpl = fs.readFileSync(__dirname + "/resume.hbs", "utf-8");
 
-        fs.writeFile(compiled + "/" + filename, Handlebars.compile(tpl)({
+        //generates HTML
+        fs.writeFile(compiled + "/" + filename + ".html", Handlebars.compile(tpl)({
             css: css,
             resume: resume
         }), {
             flag: 'w'
         });
+
+        // generates PDF
+        phantomArgs.push(path.join(__dirname, filename + ".html"));
+        phantomArgs.push(filename + ".pdf");
+
+        var program = phantomjs.exec('./rasterize.js', './compiled/' + filename + '.html', './compiled/' + filename + '.pdf', 'Letter')
+        program.stdout.pipe(process.stdout);
+        program.stderr.pipe(process.stderr);
     }
 
     /* HANDLEBARS HELPERS */
@@ -91,5 +105,7 @@
 
         return new Handlebars.SafeString(out.join(''));
     });
-    render(Object.assign(base, english), 'MaximeRouiller.en.html');
+
+    render(Object.assign(base, english), 'MaximeRouiller.en');
+    render(Object.assign(base, french), 'MaximeRouiller.fr');
 }());
