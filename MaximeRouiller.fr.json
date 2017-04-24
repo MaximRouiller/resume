@@ -1,13 +1,204 @@
 {
-	"work": [],
-	"volunteer": [],
-	"education": [],
-	"awards": [],
-	"publications": [],
-	"skills": [],
-	"languages": [],
-	"interests": [],
-	"references": [],
-	"projects": [],
-	"meta": {}
+  "languages": [{
+    "language": "Francais",
+    "fluency": "Native"
+  }, {
+    "language": "Anglais",
+    "fluency": "Fluent"
+  }],
+  "work": [{
+    "company": "Solutions Novaweb",
+    "position": "Senior Software Developer/Owner",
+    "website": "http://www.novawebsolutions.ca",
+    "startDate": "2013-10-01",
+    "description": "Independent consultant. Providing software development services for the client. ",
+    "highlights": []
+  }, {
+    "company": "Raymond Chabot Grant Thornton",
+    "position": "Consultant via Novaweb Solutions",
+    "startDate": "2016-03",
+    "description": "Technologies: .NET, ASP.NET MVC, ASP.NET WebApi, Angular JS, RequireJS, gulp, REST, Powershell, Windows Azure",
+    "highlights": [
+      "Former les développeurs sur la bonne utilisation des ressources Cloud",
+      "Construire des preuves de concept pour s’assurer de la validitétechnologique",
+      "Développement d’application SPA avec Angular",
+      "Déploiement d’applications via les patrons Azure Resource Manager",
+      "Obtentions de requis du client",
+      "Écriture de documentation de déploiement",
+      "Recommandation de pratique de développement web",
+      "Participer à l’orientation stratégique et technologique du cloud"
+    ]
+  }, {
+    "company": "Jean Coutu",
+    "position": "Consultant via Novaweb Solutions",
+    "startDate": "2015-09",
+    "endDate": "2016-03",
+    "description": "Technologies: .NET, ASP.NET MVC, JavaScript, Windows Azure",
+    "highlights": [
+      "Aider à faire les premiers pas vers le Cloud",
+      "Développement d’application SharePoint",
+      "Amélioration des performances par 300% d’une application client",
+      "Formation et encourager l’utilisation de bonne pratiques de développements."
+    ]
+  }, {
+    "company": "Cirque du Soleil",
+    "position": "Consultant via Novaweb Solutions",
+    "startDate": "2015-02",
+    "endDate": "2015-09",
+    "description": "Technologies: ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell",
+    "highlights": [
+      "Gestion des services Azure",
+      "Maintenance du framework maison pour le développement logiciel",
+      "Création d’un framework afin de créer, déployer, configurer des applications sur Azure",
+      "Acquisition et écriture de documents de requis pour le client",
+      "Écriture de documentation de déploiement",
+      "Développement Powershell pour la gestion des scripts de déploiement",
+      "Réécriture d’un système de gestion WiFi",
+      "Positionnement technologique et stratégique"
+    ]
+  }, {
+    "company": "Garda",
+    "position": "Consultant via Novaweb Solutions",
+    "startDate": "2014-07",
+    "endDate": "2015-01",
+    "description": "Technologies: ASP.NET MVC, WebApi, Azure, C#, Git, ReSharper, AngularJS, Bootstrap, OData",
+    "highlights": [
+      "Maintenance d'application existante",
+      "Création de rapport devente mensuel pour ladirectrice aux ventes",
+      "Participation à l'élaboration d'une architecture Cloud Azure",
+      "Révisiondel'architecture dela nouvelle application interne",
+      "Partipation aux différentes rencontre agile (SCRUM)",
+      "Acquisition de requis pour les différents logiciels"
+    ]
+  }, {
+    "company": "Radio-Canada (Plateforme)",
+    "position": "Consultant via Novaweb Solutions",
+    "startDate": "2014-03",
+    "endDate": "2014-06",
+    "description": "Technologies: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
+    "highlights": [
+      "Aider au développement d'outils interne pour lagestion/distribution de contenu",
+      "Révision d'architecture et de base de données",
+      "Révision de code",
+      "Participation aux différentes rencontres agile (SCRUM)"
+    ]
+  }, {
+    "company": "RADIO-CANADA (Tou.Tv)",
+    "position": "Consultant via Novaweb Solutions",
+    "startDate": "2013-10",
+    "endDate": "2014-03",
+    "description": "Technologies: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
+    "highlights": [
+      "Développement dela plateforme de diffusion en ligne",
+      "Implémentation del'authentification par SSO dela plateforme",
+      "Participation aux discussions d'architecture",
+      "Révisionde code",
+      "Obtention des différents requis techniques sur 3 différent départements",
+      "Installation, maintenance et configuration d'un systèmed'analyse entemps réel des erreurs",
+      "Participation aux différentes rencontres agile (SCRUM)"
+    ]
+  }, {
+    "company": "nventive",
+    "position": "Senior Software Developer",
+    "website": "http://www.nventive.com",
+    "startDate": "2013-09-01",
+    "description": "",
+    "highlights": [
+      "Maintenance du produit SmartUse",
+      "Participation aux discussions d'architectures",
+      "Création de services web compatible avec Windows Azure"
+    ],
+    "endDate": "2013-10-01"
+  }, {
+    "company": "Innobec",
+    "position": "Senior .NET Web developer",
+    "website": "http://www.innobec.com",
+    "startDate": "2011-09-01",
+    "description": "Technologies: C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
+    "highlights": [
+      "Conception et maintenance de site web ASP.NET basé sur des spécifications",
+      "Création d'une batterie de tests unitaires pour un système « Legacy »",
+      "Écriture de test unitaire, d'intégrationet d'interface",
+      "Participation aux différents rencontre agiles (SCRUM)",
+      "Évaluations de requis clients afin d'écriture des soumissions",
+      "« Coaching » et formation des nouveaux développeurs",
+      "Consultation externe chez des clients (Radio-Canada)",
+      "Développement d'un front-end d'un site d'échange en bourse"
+    ],
+    "endDate": "2013-08-01"
+  }, {
+    "company": "Logiweb",
+    "position": ".NET Developer",
+    "website": "",
+    "startDate": "2010-09-01",
+    "description": "Build websites for clients\nGave jQuery, TDD, MVC formations internally\nWent to do formations at clients",
+    "highlights": [
+      "Conception et maintenance de système ASP.NET pour les clients",
+      "Conception, maintenance etopération d'un systèmede vote en ligne",
+      "Formation jQuery, TDD, MVC à l'interne",
+      "Formation chez des clients"
+    ],
+    "endDate": "2011-09-01"
+  }, {
+    "company": "DMR, une division de Fujitsu Conseil (Canada) inc.",
+    "position": ".NET Solution Consultant",
+    "website": "",
+    "startDate": "2009-10-01",
+    "description": "Technologies: C#\n* WCF\n* .NET 3.5\n* TDD\n* Moq\n* VS2008\n* ASP.NET",
+    "highlights": [
+      "Création d'un systèmede type « Publisher/Subscriber » pour le dossier delasanté duQuébec",
+      "Supervision d'un développeur lors du développement du projet",
+      "Maintenance et conception de logiciels",
+      "Écriture de tests unitaire et système",
+      "Utilisation dela méthodologie Macroscope"
+    ],
+    "endDate": "2010-07-01"
+  }, {
+    "company": "Orckestra Conseil Inc.",
+    "position": "Programmer",
+    "website": "",
+    "startDate": "2007-07-01",
+    "description": "Technologies: SharePoint 2007\n* Commerce Server 2007\n* C#\n* .NET 1.1/2.0/3.5\n* FAST\n* WCF\n* ASP.NET",
+    "highlights": [
+      "Création d'une intégration Commerce Server 2007 / SharePoint 2007 pour unsite de commerce électronique chez Future Electronics",
+      "Création d'une intégration TFS / SharePoint 2007 pour un produit interne",
+      "Maintenance de site web de client existant",
+      "Automatisation de l'installation de SharePoint 2007, BizTalk, Commerce Server2007, Microsoft CRM Dynamics, etc.",
+      "Développement et maintenance d'un outil interne",
+      "Développement de prototype avec Endeca et FAST",
+      "Participationau changement versl'agilité (SCRUM)"
+    ],
+    "endDate": "2009-09-01"
+  }, {
+    "company": "CCDI Canada",
+    "position": "Programmer",
+    "website": "",
+    "startDate": "2007-01-01",
+    "description": "* C#\n* VB6\n* ASP.NET\n* .NET 1.1/2.0",
+    "highlights": ["Maintenance d'un système de vente rapide"],
+    "endDate": "2007-07-01"
+  }, {
+    "company": "S-One Canada",
+    "position": "Programmer",
+    "website": "",
+    "startDate": "undefined-2007-01",
+    "description": "WCF, WFF, C#, ASP.NET",
+    "highlights": ["Création d'un système de gestion des propriétés intellectuel de Vivendi Universal"],
+    "endDate": "undefined-2007-01"
+  }, {
+    "company": "Tel-Synergy",
+    "position": "Junior Programmer",
+    "website": "",
+    "startDate": "undefined-2005-01",
+    "description": "-Maintain and develop the existing system while rebuilding it from scratch\n-Maintain the existing billing system\n-Analysis, conception and development of an home-made telemarketing system\n-Development of a self-service access to bills\n-Improve the mailling process of bills\n-Installation and maintenance of an intranet",
+    "highlights": [],
+    "endDate": "undefined-2006-01"
+  }, {
+    "company": "MSDEVMTL",
+    "position": "Co-Organiser of MSDEVMTL (.NET group)",
+    "website": "",
+    "startDate": "2009-10-01",
+    "description": "* Find speakers\n* Participate in the daily/weekly/monthly management task for the group\n* Participate in the different tasks at meetings (greeter, opening speach, registration, etc.)",
+    "highlights": []
+  }]
 }
