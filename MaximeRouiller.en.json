@@ -20,7 +20,7 @@
       "startDate": "2016-02-01",
       "endDate": "2017-04-30",
       "summary": "Provide software development services as well as help manage Windows Azure resources.",
-      "description": "Technologies used: Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Web sites, ADFS, AppInsights, Resource Manager, SQL Azure), ASP.NET MVC, OWIN, WebAPI, C#, REST, Auth0, Angular 1.5, Visual Studio Team Services",
+      "description": "<b>Technologies used:</b> Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Web sites, ADFS, AppInsights, Resource Manager, SQL Azure), ASP.NET MVC, OWIN, WebAPI, C#, REST, Auth0, Angular 1.5, Visual Studio Team Services",
       "highlights": [
         "Teach developers about proper use of cloud resources",
         "Build proof of concepts to ensure validity of technology",
@@ -38,7 +38,7 @@
       "startDate": "2015-09-01",
       "endDate": "2016-03-31",
       "summary": "Provide software development services as well as help manage Windows Azure resources.",
-      "description": "Technologies used: Microsoft Azure, ASP.NET MVC 5, WebAPI, C#, REST, JavaScript, jQuery, SharePoint 2013",
+      "description": "<b>Technologies used:</b> Microsoft Azure, ASP.NET MVC 5, WebAPI, C#, REST, JavaScript, jQuery, SharePoint 2013",
       "highlights": [
         "Help give orientation towards the cloud",
         "Deliver SharePoint solutions",
@@ -51,7 +51,7 @@
       "startDate": "2015-02-01",
       "endDate": "2015-09-30",
       "summary": "Provide software development services as well as help manage Windows Azure resources",
-      "description": "Technologies used: Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Queuing, Web sites, ADFS, ACS), ASP.NET MVC 5, WebAPI, C#, OData, REST, Durandal, Powershell",
+      "description": "<b>Technologies used:</b> Microsoft  Azure  (Active  Directory,  Table  Storage,  Blob  Storage, Queuing, Web sites, ADFS, ACS), ASP.NET MVC 5, WebAPI, C#, OData, REST, Durandal, Powershell",
       "highlights": [
         "Manage Azure Cloud services",
         "Maintain homemade application framework for Cloud Development",
@@ -69,7 +69,7 @@
       "startDate": "2014-07-01",
       "endDate": "2015-01-31",
       "summary": "Helped maintain a legacy money tracking system as well as participate in the architecture of the new rewritten version. Helped in generating sales reports from two different data sources",
-      "description": "Technologies used: Microsoft  Azure  (Active Directory,  Table Storage,  Blob  Storage, Queuing,  Web/Worker roles), ASP.NET MVC5, WebAPI, C# , VB.NET, Git, ReSharper, AngularJS, D3.js",
+      "description": "<b>Technologies used:</b> Microsoft  Azure  (Active Directory,  Table Storage,  Blob  Storage, Queuing,  Web/Worker roles), ASP.NET MVC5, WebAPI, C# , VB.NET, Git, ReSharper, AngularJS, D3.js",
       "highlights": [
         "Maintain existing applications",
         "Create monthly sales report for the sales director",
@@ -85,7 +85,7 @@
       "startDate": "2014-03-01",
       "endDate": "2014-06-30",
       "summary": "Maintained the centralized content management system that drives all the content at Radio-Canada as well as adding new features.",
-      "description": "Technologies used: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
+      "description": "<b>Technologies used:</b> ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
       "highlights": [
         "Help in the development of internal tools for content management/distribution",
         "Architecture and database review",
@@ -99,7 +99,7 @@
       "startDate": "2013-10-01",
       "endDate": "2014-03-31",
       "summary": "Implementation of the Single-Sign On system as well as providing real-time log data visualization for the production website. Supported and coached other teams on the use of this system.",
-      "description": "Technologies used: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
+      "description": "<b>Technologies used:</b> ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
       "highlights": [
         "Help in the development of their online streaming platform.",
         "Implemented SSO for their platform",
@@ -125,7 +125,7 @@
       "website": "http://www.innobec.com",
       "startDate": "2011-09-01",
       "endDate": "2013-08-31",
-      "description": "Technologies used: C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
+      "description": "<b>Technologies used:</b> C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
       "highlights": [
         "Build ASP.NET websites based on specification",
         "Brought under test a legacy application that wasn't initially tested.",
@@ -148,7 +148,7 @@
       "position": ".NET Solution Consultant",
       "website": "",
       "startDate": "2009-10-01",
-      "description": "Technologies used: C#, WCF, .NET 3.5, TDD, Moq, VS2008, ASP.NET",
+      "description": "<b>Technologies used:</b> C#, WCF, .NET 3.5, TDD, Moq, VS2008, ASP.NET",
       "highlights": [],
       "endDate": "2010-07-01"
     }, {
@@ -156,7 +156,7 @@
       "position": "Programmer",
       "website": "",
       "startDate": "2007-07-01",
-      "description": "Technologies used: SharePoint 2007, Commerce Server 2007, C#, .NET 1.1/2.0/3.5, FAST, WCF, ASP.NET",
+      "description": "<b>Technologies used:</b> SharePoint 2007, Commerce Server 2007, C#, .NET 1.1/2.0/3.5, FAST, WCF, ASP.NET",
       "highlights": [],
       "endDate": "2009-09-01"
     }, {
@@ -164,7 +164,7 @@
       "position": "Programmer",
       "website": "",
       "startDate": "2007-01-01",
-      "description": "Technologies used: C#, VB6, ASP.NET, .NET 1.1/2.0",
+      "description": "<b>Technologies used:</b> C#, VB6, ASP.NET, .NET 1.1/2.0",
       "highlights": [],
       "endDate": "2007-07-01"
     }, {
@@ -172,7 +172,7 @@
       "position": "Programmer",
       "website": "",
       "startDate": "2007-01-01",
-      "description": "Technologies used: WCF, WFF, C#, ASP.NET",
+      "description": "<b>Technologies used:</b> WCF, WFF, C#, ASP.NET",
       "highlights": [],
       "endDate": "2007-01-01"
     }, {

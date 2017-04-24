@@ -17,7 +17,7 @@
     "company": "Raymond Chabot Grant Thornton",
     "position": "Consultant via Novaweb Solutions",
     "startDate": "2016-03",
-    "description": "Technologies: .NET, ASP.NET MVC, ASP.NET WebApi, Angular JS, RequireJS, gulp, REST, Powershell, Windows Azure",
+    "description": "<b>Technologies</b>: .NET, ASP.NET MVC, ASP.NET WebApi, Angular JS, RequireJS, gulp, REST, Powershell, Windows Azure",
     "highlights": [
       "Former les développeurs sur la bonne utilisation des ressources Cloud",
       "Construire des preuves de concept pour s’assurer de la validitétechnologique",
@@ -33,7 +33,7 @@
     "position": "Consultant via Novaweb Solutions",
     "startDate": "2015-09",
     "endDate": "2016-03",
-    "description": "Technologies: .NET, ASP.NET MVC, JavaScript, Windows Azure",
+    "description": "<b>Technologies:</b> .NET, ASP.NET MVC, JavaScript, Windows Azure",
     "highlights": [
       "Aider à faire les premiers pas vers le Cloud",
       "Développement d’application SharePoint",
@@ -45,7 +45,7 @@
     "position": "Consultant via Novaweb Solutions",
     "startDate": "2015-02",
     "endDate": "2015-09",
-    "description": "Technologies: ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell",
+    "description": "<b>Technologies:</b> ASP.NET MVC, Durandal, Windows Azure (WebApps, Service Bus, Storage, etc), ReSharper, OData, REST, ADFS, Powershell",
     "highlights": [
       "Gestion des services Azure",
       "Maintenance du framework maison pour le développement logiciel",
@@ -61,7 +61,7 @@
     "position": "Consultant via Novaweb Solutions",
     "startDate": "2014-07",
     "endDate": "2015-01",
-    "description": "Technologies: ASP.NET MVC, WebApi, Azure, C#, Git, ReSharper, AngularJS, Bootstrap, OData",
+    "description": "<b>Technologies:</b> ASP.NET MVC, WebApi, Azure, C#, Git, ReSharper, AngularJS, Bootstrap, OData",
     "highlights": [
       "Maintenance d'application existante",
       "Création de rapport devente mensuel pour ladirectrice aux ventes",
@@ -75,7 +75,7 @@
     "position": "Consultant via Novaweb Solutions",
     "startDate": "2014-03",
     "endDate": "2014-06",
-    "description": "Technologies: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
+    "description": "<b>Technologies:</b> ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery",
     "highlights": [
       "Aider au développement d'outils interne pour lagestion/distribution de contenu",
       "Révision d'architecture et de base de données",
@@ -87,7 +87,7 @@
     "position": "Consultant via Novaweb Solutions",
     "startDate": "2013-10",
     "endDate": "2014-03",
-    "description": "Technologies: ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
+    "description": "<b>Technologies:</b> ASP.NET MVC 5, WebAPI, C#, TFS, ReSharper, Durandal, RequireJS, jQuery, ElasticSearch, Kibana",
     "highlights": [
       "Développement dela plateforme de diffusion en ligne",
       "Implémentation del'authentification par SSO dela plateforme",
@@ -114,7 +114,7 @@
     "position": "Senior .NET Web developer",
     "website": "http://www.innobec.com",
     "startDate": "2011-09-01",
-    "description": "Technologies: C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
+    "description": "<b>Technologies:</b> C#, ASP.NET MVC 2, MVC 3, MVC 4, HTML5, jQuery, KnockoutJS, ASP.NET Web API, StructureMap, Ninject",
     "highlights": [
       "Conception et maintenance de site web ASP.NET basé sur des spécifications",
       "Création d'une batterie de tests unitaires pour un système « Legacy »",
@@ -144,7 +144,7 @@
     "position": ".NET Solution Consultant",
     "website": "",
     "startDate": "2009-10-01",
-    "description": "Technologies: C#\n* WCF\n* .NET 3.5\n* TDD\n* Moq\n* VS2008\n* ASP.NET",
+    "description": "<b>Technologies:</b> C#\n* WCF\n* .NET 3.5\n* TDD\n* Moq\n* VS2008\n* ASP.NET",
     "highlights": [
       "Création d'un systèmede type « Publisher/Subscriber » pour le dossier delasanté duQuébec",
       "Supervision d'un développeur lors du développement du projet",
@@ -158,7 +158,7 @@
     "position": "Programmer",
     "website": "",
     "startDate": "2007-07-01",
-    "description": "Technologies: SharePoint 2007\n* Commerce Server 2007\n* C#\n* .NET 1.1/2.0/3.5\n* FAST\n* WCF\n* ASP.NET",
+    "description": "<b>Technologies:</b> SharePoint 2007\n* Commerce Server 2007\n* C#\n* .NET 1.1/2.0/3.5\n* FAST\n* WCF\n* ASP.NET",
     "highlights": [
       "Création d'une intégration Commerce Server 2007 / SharePoint 2007 pour unsite de commerce électronique chez Future Electronics",
       "Création d'une intégration TFS / SharePoint 2007 pour un produit interne",
