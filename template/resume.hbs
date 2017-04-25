@@ -234,8 +234,13 @@
                           {{/each}}
                         </ul>
                       {{/if}}
+                      {{#if description}}
+                        <div class="description">
+                          <p>{{paragraphSplit description}}</p>
+                        </div>
+                      {{/if}}
                     </div>
-                    
+
                   {{/each}}
                 </section>
               </section>

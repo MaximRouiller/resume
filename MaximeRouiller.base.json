@@ -74,183 +74,35 @@
   }],
   "skills": [{
     "name": "Web Development",
-    "level": "master",
-    "keywords": ["angularjs", "jQuery", "JSON", "HTML"]
+    "level": "",
+    "keywords": ["JavaScript", "angularjs", "jQuery", "JSON", "HTML/HTML5", "CSS", "KnockoutJS"]
   }, {
     "name": "Databases",
     "level": "",
-    "keywords": []
+    "keywords": ["SQL", "SQL Azure", "SQL Server"]
   }, {
     "name": "Architecture",
     "level": "",
-    "keywords": []
-  }, {
-    "name": "CSS",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Windows Azure",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "HTML 5",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "ASP.NET MVC",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Scrum",
-    "level": "",
-    "keywords": []
+    "keywords": ["Design Patterns", "UML"]
   }, {
     "name": ".NET",
     "level": "",
-    "keywords": []
+    "keywords": ["C#", "VB.NET", "ASP.NET", ".NET Core", "WebAPI", "JSON.NET", "Entity Framework", "IIS", "Visual Studio 2010-2017", "WCF","MsBuild" ]
   }, {
-    "name": "ASP.NET",
+    "name": "Windows Azure",
     "level": "",
-    "keywords": []
+    "keywords": ["App Services", "Storage", "Queues", "ARM", "Continuous Deployment", "WebJobs", "Scaling", "AppInsights"]
   }, {
-    "name": "SQL",
+    "name": "Methodologies",
     "level": "",
-    "keywords": []
+    "keywords": ["Agile SCRUM/Kanban", "Test Driven Development (TDD)"]
   }, {
-    "name": "TDD",
+    "name": "Source Control",
     "level": "",
-    "keywords": []
+    "keywords": ["SVN", "Git", "TFS", "Visual Studio Online (VSTS)"]
   }, {
-    "name": "Design Patterns",
+    "name": "Training",
     "level": "",
-    "keywords": []
-  }, {
-    "name": "C#",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "IIS",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Visual Studio",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "HTML5",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "WCF",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "KnockoutJS",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Agile Methodologies",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Tortoise SVN",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "MVC",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Git",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "LINQ",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "T-SQL",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "HTML",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Entity Framework",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Test Driven Development",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "XML",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Microsoft SQL Server",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "jQuery",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Visual Basic",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "UML",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "JavaScript",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "ReSharper",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Public Speaking",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "NUnit",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "TFS",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "ADO.NET",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Software Development",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "JSON",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Solution Architecture",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Subversion",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "SharePoint",
-    "level": "",
-    "keywords": []
-  }, {
-    "name": "Unit Testing",
-    "level": "",
-    "keywords": []
+    "keywords": ["Public Speaking", "Workshops"]
   }]
 }
