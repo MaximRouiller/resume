@@ -3,7 +3,7 @@
   var path = require("path");
   var Handlebars = require("handlebars");
   var handlebarsHelpers = require("./template/HandlebarHelpers");
-  var phantomjs = require('phantomjs-prebuilt')
+  var phantomjs = require('phantomjs-prebuilt');
 
   var base = require("./MaximeRouiller.base.json");
   var english = require("./MaximeRouiller.en.json");
